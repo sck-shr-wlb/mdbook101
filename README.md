@@ -97,6 +97,7 @@ Append the following line to SUMMARY.md
 Open chapter_1.md with your text editor
 
 1. Header
+
    Append the following line to chapter_1.md
 
    ```sh
@@ -104,6 +105,7 @@ Open chapter_1.md with your text editor
    ```
 
 2. New line
+
    Append the following line to chapter_1.md
 
    ```sh
@@ -114,6 +116,7 @@ Open chapter_1.md with your text editor
    > first line[enter two spaces]
 
 3. Unordered list
+
    Append the following line to chapter_1.md
 
    ```sh
@@ -122,6 +125,7 @@ Open chapter_1.md with your text editor
    ```
 
 4. Ordered list
+
    Append the following line to chapter_1.md
 
    ```sh
@@ -130,6 +134,7 @@ Open chapter_1.md with your text editor
    ```
 
 5. Code
+
    Append the following line to chapter_1.md
 
    ```sh
@@ -137,6 +142,7 @@ Open chapter_1.md with your text editor
    ```
 
 6. Bold text
+
    Append the following line to chapter_1.md
 
    ```sh
@@ -144,6 +150,7 @@ Open chapter_1.md with your text editor
    ```
 
 7. Image
+
    Append the following line to chapter_1.md
 
    ```sh
@@ -151,6 +158,7 @@ Open chapter_1.md with your text editor
    ```
 
 8. Link
+
    Append the following line to chapter_1.md
 
    ```sh
